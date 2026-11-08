@@ -47,7 +47,7 @@ gradle test
 
 
 
-\##Notes
+**Notes**
 
 Data is stored in memory and resets on restart.
 
