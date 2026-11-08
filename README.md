@@ -1,4 +1,4 @@
-\# Employee REST Service
+\#Employee REST Service
 
 
 
@@ -6,7 +6,7 @@ A RESTful web service built with Java Spring Boot and Gradle that manages employ
 
 
 
-\## Features
+\##Features
 
 \- `GET /employees` returns all employees as JSON
 
@@ -16,7 +16,7 @@ A RESTful web service built with Java Spring Boot and Gradle that manages employ
 
 
 
-\## Employee format
+\##Employee format
 
 {
 
@@ -34,7 +34,7 @@ A RESTful web service built with Java Spring Boot and Gradle that manages employ
 
 
 
-\## Run it
+\##Run it
 
 ./gradlew bootRun
 
@@ -42,13 +42,13 @@ A RESTful web service built with Java Spring Boot and Gradle that manages employ
 
 
 
-\## Test it
+\##Test it
 
 gradle test
 
 
 
-\## Notes
+\##Notes
 
 Data is stored in memory and resets on restart.
 
